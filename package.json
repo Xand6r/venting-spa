@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "a short app to understand heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"node-dev index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.3.4"
+  }
+}
