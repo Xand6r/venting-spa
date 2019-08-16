@@ -14,3 +14,4 @@ A simple Vue based app implementing CRUD functionality with node-js(express) and
 (2) then run `node app.js` : it then brings out the port o which the server as been started <hr/>
 (3) open your browser and go to the adress http://localhost:'port' <hr/>
 note: 'port' should be replaced by the port which the server is set to run on
+note: the database is hosted on mlabs , thus it requires internet connection to run locally.
